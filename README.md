@@ -4,7 +4,7 @@ A responsive operations dashboard built for managing inventory and staff data.
 
 ## Live Demo
 
-Add your deployed Vercel URL here.
+https://toppers-operations-dashboard.vercel.app
 
 ## GitHub Repository
 
