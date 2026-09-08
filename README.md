@@ -8,7 +8,7 @@ Add your deployed Vercel URL here.
 
 ## GitHub Repository
 
-Add your GitHub repository URL here.
+https://github.com/assad0701/toppers-operations-dashboard.git
 
 ## Features
 
